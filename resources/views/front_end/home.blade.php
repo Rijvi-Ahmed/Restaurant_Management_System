@@ -217,16 +217,16 @@
 			<div class = "bottom">
 				<div class="links">
 					<ul>
-						<li><a href="https://plus.google.com/u/0/100176714962618354106" target="_blank"><img src="">Google</a></li>
-						<li><a href="https://www.facebook.com/mih133" target="_blank"><img src="">Facebook</a></li>
-						<li><a href="https://www.instagram.com/iammimranh/?hl=en" target="_blank"><img src="">Instagram</a></li>
-						<li><a href="https://github.com/imranhcseru" target="_blank"><img src="">Github</a></li>
+						<li><a href="https://plus.google.com" target="_blank"><img src="">Google</a></li>
+						<li><a href="https://www.facebook.com" target="_blank"><img src="">Facebook</a></li>
+						<li><a href="https://www.instagram.com" target="_blank"><img src="">Instagram</a></li>
+						<li><a href="https://github.com/Rijvi-Ahmed" target="_blank"><img src="">Github</a></li>
 					</ul>
 				</div>
 				<div class="copyright">
 					<ul>
 						<li class="copy"><p>Copyright &copy Foodie-Guy</p></li>
-						<li class="credit"><p>Created By: Imran</p></li>
+						<li class="credit"><p>Created By: Rijvi</p></li>
 					</ul>
 				</div>
 
